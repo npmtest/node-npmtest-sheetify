@@ -1,4 +1,7 @@
-# test coverage for  [sheetify (v6.0.1)](https://github.com/stackcss/sheetify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sheetify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sheetify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sheetify.svg)](https://travis-ci.org/npmtest/node-npmtest-sheetify)
+# npmtest-sheetify
+
+#### basic test coverage for  [sheetify (v6.0.1)](https://github.com/stackcss/sheetify#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-sheetify.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-sheetify) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-sheetify.svg)](https://travis-ci.org/npmtest/node-npmtest-sheetify)
+
 #### Modular CSS bundler
 
 [![NPM](https://nodei.co/npm/sheetify.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sheetify)
